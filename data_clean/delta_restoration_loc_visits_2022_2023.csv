@@ -1,0 +1,61 @@
+restore_loc,visitor_type,total_visits
+Decker Island,bank_angler,6
+Decker Island,cars,0
+Decker Island,lrg_boat,1
+Decker Island,med_boat,20
+Decker Island,scientist,0
+Decker Island,sm_boat,10
+Grizzly Bay,bank_angler,20
+Grizzly Bay,cars,0
+Grizzly Bay,lrg_boat,18
+Grizzly Bay,med_boat,66
+Grizzly Bay,scientist,2
+Grizzly Bay,sm_boat,5
+Honker Bay/Chipps Island,bank_angler,0
+Honker Bay/Chipps Island,cars,0
+Honker Bay/Chipps Island,lrg_boat,2
+Honker Bay/Chipps Island,med_boat,5
+Honker Bay/Chipps Island,scientist,1
+Honker Bay/Chipps Island,sm_boat,35
+North Delta,bank_angler,4
+North Delta,cars,52
+North Delta,lrg_boat,0
+North Delta,med_boat,9
+North Delta,scientist,1
+North Delta,sm_boat,1
+Prospect,bank_angler,12
+Prospect,cars,0
+Prospect,lrg_boat,4
+Prospect,med_boat,90
+Prospect,scientist,2
+Prospect,sm_boat,14
+SJ River,bank_angler,7
+SJ River,cars,0
+SJ River,lrg_boat,0
+SJ River,med_boat,5
+SJ River,scientist,0
+SJ River,sm_boat,0
+SW Suisun Marsh,bank_angler,7
+SW Suisun Marsh,cars,0
+SW Suisun Marsh,lrg_boat,0
+SW Suisun Marsh,med_boat,11
+SW Suisun Marsh,scientist,0
+SW Suisun Marsh,sm_boat,2
+Sherman Island,bank_angler,0
+Sherman Island,cars,3
+Sherman Island,lrg_boat,0
+Sherman Island,med_boat,0
+Sherman Island,scientist,0
+Sherman Island,sm_boat,0
+Twitchell Island,bank_angler,0
+Twitchell Island,cars,4
+Twitchell Island,lrg_boat,0
+Twitchell Island,med_boat,5
+Twitchell Island,scientist,3
+Twitchell Island,sm_boat,0
+Wildlands,bank_angler,0
+Wildlands,cars,0
+Wildlands,lrg_boat,0
+Wildlands,med_boat,2
+Wildlands,scientist,2
+Wildlands,sm_boat,0
