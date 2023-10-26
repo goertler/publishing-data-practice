@@ -14,8 +14,7 @@ library(janitor)
 
 
 ## Read data ----
-
-#reading directrly from url
+## update to url once data is submitted to a repository
 delta_visits <- read_csv("data_raw/socioecological_monitoring_data_2022_2023.csv") %>% 
     janitor::clean_names() 
 
