@@ -1,2 +1,2 @@
 # publishing-data-practice
-Testing activity to practice how to publish a data package to a stable repository
+Data and scripts to practice publishing a data package to a "stable" repository.
